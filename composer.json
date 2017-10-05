@@ -1,0 +1,14 @@
+{
+    "name": "bakemono/starter",
+    "description": "A blank project for Bakemono Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Melvine Nargeot",
+            "email": "melvine.nargeot@gmail.com"
+        }
+    ],
+    "require": {
+        "bakemono/framework": "^1.0"
+    }
+}

@@ -1,0 +1,8 @@
+database:
+    host: localhost
+    port: ~
+    dbname: bakemono
+    user: root
+    password: root
+
+modules:
