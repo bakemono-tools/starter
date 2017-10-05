@@ -6,7 +6,7 @@ require '../vendor/autoload.php';
  * Initialise l'application et ses composants
  * (ModuleManager, Router, Renderer, DatabaseConnection, Executor)
  */
-$app = new \Framework\App();
+$app = new \Framework\App(__DIR__ . "/..");
 
 /**
  * Execute la requête
