@@ -8,6 +8,11 @@
             "email": "melvine.nargeot@gmail.com"
         }
     ],
+    "autoload" : {
+        "psr-4" : {
+            "module\\" : "module"
+        }
+    },
     "require": {
         "bakemono/framework": "^1.0"
     }
